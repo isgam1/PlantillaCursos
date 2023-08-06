@@ -28,3 +28,10 @@ Link del sitio web
 
 <a href="https://isgam1.github.io/PlantillaCursos/">MiPlantillaCursos</a>
 
+Imagen del sitio web
+==========
+
+![](https://github.com/isgam1/PlantillaCursos/blob/main/readme/PlantillaCursos.PNG)
+
+
+
