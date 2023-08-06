@@ -23,4 +23,3 @@ Carpetas:
     <li> 📁js: Contendrá los archivos js del sitio web</li>
 </ul>
 
-📁img
